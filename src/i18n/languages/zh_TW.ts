@@ -4,7 +4,7 @@ import type { Translation } from '../translation'
 export const zh_TW: Translation = {
   [Key.home]: '首頁',
   [Key.about]: '關於',
-  [Key.archive]: '彙整',
+  [Key.archive]: '文章列表',
   [Key.search]: '搜尋',
 
   [Key.tags]: '標籤',
@@ -28,7 +28,7 @@ export const zh_TW: Translation = {
 
   [Key.lightMode]: '亮色',
   [Key.darkMode]: '暗色',
-  [Key.systemMode]: '跟隨系統',
+  [Key.systemMode]: '依系統設定',
 
   [Key.more]: '更多',
 
